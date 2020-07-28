@@ -436,6 +436,7 @@ font-weight: 300;
     margin-bottom: 5px;
 }
 
+/* Tutor */
 
 .main_tutor {
     width: 100%;
@@ -519,9 +520,9 @@ font-weight: 300;
 .main_tutor_social_network > article a:hover {
     background-color: #2D3142;
     color: #FFF;
-        
 }
 
+/* OptIn Footer */
 
 .main_optin_footer {
     width: 100%;
@@ -549,6 +550,8 @@ font-weight: 300;
     font-size: 1.2em;
     padding: 10px 20px;
 }
+
+/* Footer */
 
 .main_footer {
     max-width: 1300px;
